@@ -4,7 +4,9 @@ const test = () => {
     return (
         <div>
             <h1>jjjfj</h1>
-            <h2>fhfhjhghjtr</h2>
+            <h2>fhfhjhghjtr
+                jjjjjjjjjjjjjjjjjj
+            </h2>
         </div>
     );
 };
